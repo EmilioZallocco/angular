@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../FACULTAD-2023/DESARROLLO DE SOFTWARE/aprendiendoAngular"
+		},
+		{
+			"path": "../../../../../Documents/DESARROLLO WEB"
+		},
+		{
+			"path": "../../../../../Documents/java-scrip-curso"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DESARROLLO WEB"
+	}
+}
