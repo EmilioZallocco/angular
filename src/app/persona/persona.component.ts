@@ -9,7 +9,7 @@ export class PersonaComponent {
       
     nombre: string = 'emilio';
     apellido: string = 'Zallocco';
-    edad:number = 20;
+    edad:number = 25;
     //private edad: number = 20;
 
     /*getEdad(){
